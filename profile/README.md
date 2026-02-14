@@ -1,7 +1,13 @@
 
-# Vast Pay Liberia Engineering 🚀
+# Vast Pay Liberia
 
 Welcome to the official code sanctuary of **Vast Pay Liberia**. We are building the future of digital finance using the MERN stack and React Native.
+
+<div align="center">
+  <kbd>
+    <img src="Logo.png" alt="Logo" width="100%" height="400px">
+  </kbd>
+</div>
 
 ## 🛠 Our Tech Stack
 * **Mobile:** React Native (iOS & Android)
