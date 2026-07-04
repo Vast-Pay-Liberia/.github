@@ -15,4 +15,4 @@ banking grade security standard.
 </div>
 
 ---
-**Maintained by the Core Engineering Team.** For access requests or technical support, contact the Admin via Slack or [Email].
+**Maintained by the Core Engineering Team.** For access requests or technical support, contact the Admin via <vastpaydev808@gmail.com>.
