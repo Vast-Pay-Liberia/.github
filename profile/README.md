@@ -5,7 +5,8 @@ Welcome to the official code sanctuary of **Vast Pay Liberia**.
 Vast pays is a Fintech startup for seamless payment of goods and services.  
 An Impact tools for health care and Liberia's first digital all in one platform, making payments inclusive.   
 Bringing together Lonestar and Orange to improve mobile money usage in Liberia.  
-We are building the future of digital finance using the MERN stack and React Native.  
+We are building the future of digital finance using secure and reliable tools and well as
+banking grade security standard.  
 
 <div align="center">
   <kbd>
